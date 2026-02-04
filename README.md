@@ -15,7 +15,7 @@
 - **⚡ Real-Time Streaming**: Live agent thoughts and tool outputs displayed in the terminal
 - **🎨 Pure Black Theme**: Minimalist design with JetBrains Mono typography and CRT effects
 - **🔌 Zero-Config Deployment**: Single Docker Compose command - no manual model downloads required
-- **🦾 GPU Accelerated**: Optimized for NVIDIA GPUs (tested on RTX 2050 with 4GB VRAM)
+- **🦾 GPU Accelerated**: Optimized for NVIDIA GPUs (tested on RTX )
 - **🛡️ Isolated Workspace**: All file operations and commands execute in a containerized environment
 
 ---
@@ -134,3 +134,4 @@ This project is open source and available under the MIT License.
   <sub>Developed with ❤️ for autonomous coding</sub><br>
   <sub>Terminal Interface • Docker Native • GPU Accelerated</sub>
 </div>
+
