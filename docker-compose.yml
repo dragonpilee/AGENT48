@@ -1,0 +1,32 @@
+models:
+  granite:
+    model: ai/granite-4.0-h-nano:latest
+
+services:
+  # Python Agent Backend
+  backend:
+    build:
+      context: ./backend
+    container_name: agent-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/workspace
+      - ./backend:/app
+    models:
+      - granite
+    restart: always
+
+  # Frontend UI
+  frontend:
+    build:
+      context: ./frontend
+    container_name: agent-frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules # Don't overwrite node_modules with host
+    depends_on:
+      - backend
+    restart: always
