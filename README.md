@@ -87,7 +87,6 @@ docker-compose up -d --build
 
 ## 🎨 Design Philosophy
 
-- **Digital Authenticity**: Scanline effects, monospaced typography, and CRT-style cursor blinking
 - **Terminal-First**: Zero GUI clutter - just you and the command prompt
 - **Typography**: Uses **JetBrains Mono** for maximum legibility and retro aesthetic
 - **Pure Black**: True #000000 background for OLED displays and classic terminal feel
@@ -133,6 +132,7 @@ This project is open source and available under the MIT License.
   <sub>Developed with ❤️ for autonomous coding</sub><br>
   <sub>Terminal Interface • Docker Native • GPU Accelerated</sub>
 </div>
+
 
 
 
