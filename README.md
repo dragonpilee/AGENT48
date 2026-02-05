@@ -9,7 +9,6 @@
 
 ## ✨ Features
 
-- **📺 CRT Terminal**: Authentic scanlines, green phosphor glow, and blinking cursor for immersive coding
 - **🧠 Local Intelligence**: Privacy-focused architecture using Docker's native Model Runner with Granite-4.0-Nano (1.46B parameters)
 - **🛠️ ReAct Agent Loop**: Autonomous tool execution with `write_file`, `read_file`, and `run_command` capabilities
 - **⚡ Real-Time Streaming**: Live agent thoughts and tool outputs displayed in the terminal
@@ -134,4 +133,5 @@ This project is open source and available under the MIT License.
   <sub>Developed with ❤️ for autonomous coding</sub><br>
   <sub>Terminal Interface • Docker Native • GPU Accelerated</sub>
 </div>
+
 
