@@ -3,7 +3,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge) ![Docker](https://img.shields.io/badge/Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**AGENT48** is a full-stack AI coding agent featuring a **High-Fidelity CRT Terminal** interface. Built for autonomous code generation and execution, it combines retro-futuristic aesthetics with modern local LLM capabilities powered by Docker Model Runner and Granite-4.0-Nano.
+**AGENT48** is a full-stack AI coding agent featuring a **Terminal** interface. Built for autonomous code generation and execution, it combines retro-futuristic aesthetics with modern local LLM capabilities powered by Docker Model Runner and Granite-4.0-Nano.
 
 ---
 
@@ -133,5 +133,6 @@ This project is open source and available under the MIT License.
   <sub>Developed with ❤️ for autonomous coding</sub><br>
   <sub>Terminal Interface • Docker Native • GPU Accelerated</sub>
 </div>
+
 
 
